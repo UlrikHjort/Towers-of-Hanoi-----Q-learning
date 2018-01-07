@@ -22,6 +22,7 @@ Usage:
 Example of training the system with 2 discs:
 
 Q matrix converged to its optimal valueafter 300 episodes:
+
 [[   0.     0.     0.    64.     0.     0.    51.2    0.     0. ]
 
  [   0.     0.    80.     0.    51.2    0.     0.    51.2    0. ]
