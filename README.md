@@ -1,4 +1,4 @@
-Reinforcement Q-learning algoeithm for solving the Towers of Hanoi problem.
+Reinforcement Q-learning algorithm for solving the Towers of Hanoi problem.
 
 
 
